@@ -1,9 +1,4 @@
-Version :1.0.0.4
-New File: Test\Test Nouveau doosier.txt
-New File: Test\Instal_CamReport M2025.exe
-
-
-Version :1.0.0.0
+Version :1.0.0.1
 Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Documentations\Migration\Guide d'installation.pdf
 Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.Core.dll
 Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.Core.pdb
