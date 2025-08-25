@@ -1,11 +1,3 @@
-Version :1.0.0.1
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Documentations\Migration\Guide d'installation.pdf
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.Core.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.Core.pdb
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.deps.json
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.exe
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\InstallationMastercam.pdb
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\Microsoft.Windows.SDK.NET.dll
-Modified: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\win10-x64\WinRT.Runtime.dll
+Version :1.0.0.0
+
 
