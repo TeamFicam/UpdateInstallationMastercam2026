@@ -1,3 +1,6 @@
-Version :1.0.0.0
+Version :1.0.0.99
 
+
+Version :1.0.0.0
+New File: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Test.txt
 
