@@ -9,3 +9,13 @@ Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
 
+Version :1.0.0.3
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\CONFIG\Extensions\Code Expert
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\data\CamReport
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\Mill\NC\Temp
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\Zip2GoSupportFiles
+Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\My Mastercam 2026
+Modified: win10-x64\InstallationMastercam.dll
+Modified: win10-x64\InstallationMastercam.exe
+Modified: win10-x64\InstallationMastercam.pdb
+
