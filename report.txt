@@ -1,9 +1,4 @@
 Version :1.0.0.4
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\CONFIG\Extensions\Code Expert
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\data\CamReport
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\Mill\NC\Temp
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\my mastercam 2026\Mastercam\Zip2GoSupportFiles
-Removed Directory: D:\GitHub\Ficam\Ficam\3-Mastercam\Instalation MCAM\2026\Installation_Mastercam2026\Ficam\Interface\Config Dark\My Mastercam 2026
 New File: Mastercam folders\Extentions\DesignTools\Design_Tools_14-5_for_Mastercam_2026.exe
 New File: Mastercam folders\Extentions\MoldPlus\CAD_Translator_9-9_for_Mastercam_2026.exe
 New File: Mastercam folders\Extentions\MoldServ\MoldplusLicenseServer-6.1.1.msi
@@ -11,4 +6,6 @@ Removed File: Mastercam folders\Extentions\MoldServ\MoldplusLicenseServer-6_0_0.
 Modified: win10-x64\InstallationMastercam.dll
 Modified: win10-x64\InstallationMastercam.exe
 Modified: win10-x64\InstallationMastercam.pdb
+Version :1.0.0.6
+Removed File: Ficam\Fichiers à copier\chooks\SaveFicamPost.dll
 
