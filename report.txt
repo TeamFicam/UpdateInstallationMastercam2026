@@ -10,8 +10,5 @@ Version :1.0.0.5
 New File: Ficam\Fichiers à copier\chooks\SaveFicamPost.dll
 
 Version :1.0.0.6
-Modified: win10-x64\InstallationMastercam.dll
-Modified: win10-x64\InstallationMastercam.exe
-Modified: win10-x64\InstallationMastercam.pdb
 New File: Ficam\Fichiers à copier\chooks\SaveFicamPost.dll
 
