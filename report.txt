@@ -11,5 +11,5 @@ New File: Ficam\Fichiers à copier\chooks\SaveFicamPost.dll
 
 Version :1.0.0.6
 New File: Ficam\Fichiers à copier\chooks\SaveFicamPost.dll
-New File: Ficam\Applications\CamClamp.exe
+
 
